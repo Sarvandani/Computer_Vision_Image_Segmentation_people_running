@@ -267,6 +267,8 @@ segment_image(image_url)
 
     
 ![png](README_files/README_3_1.png)
+
+The image was downloaded from the following [link](https://www.pexels.com/fr-fr/photo/deux-hommes-qui-courent-sur-une-route-en-beton-1564470/). 
     
 `DISCLAIMER`: I don't warrant this code in any way whatsoever. This code is provided "as-is" to be used at your own risk.
 
