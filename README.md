@@ -4,6 +4,7 @@
 Here I used pretrained Mask R-CNN and DeepLabV3 models to perform image segmentation.
 First of all, I installed the following requirements on my Google Colab environment.
 You also need to work on GPU of Colab.
+Different visualizations of Mask R-CNN model can be seen in the following.
 
 ```
 !pip install torch torchvision torchaudio
