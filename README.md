@@ -4,7 +4,7 @@
 !pip install cython
 !pip install -U 'git+https://github.com/facebookresearch/fvcore.git'
 !pip install 'git+https://github.com/facebookresearch/detectron2.git'
-
+```
 
 ```python
 import torch
