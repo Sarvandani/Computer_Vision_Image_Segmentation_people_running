@@ -1,3 +1,9 @@
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+ <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" /> 
+
+Here I used pretrained Mask R-CNN and DeepLabV3 models to perform image segmentation.
+First of all, I installed the following requirements on my Google Colab environment.
+You also need to work on GPU of Colab.
 
 ```
 !pip install torch torchvision torchaudio
