@@ -12,6 +12,12 @@ You also need to work on GPU of Colab.
 !pip install 'git+https://github.com/facebookresearch/detectron2.git'
 ```
 
+```
+!git clone https://github.com/facebookresearch/detectron2.git
+%cd detectron2
+!pip install -e .
+```
+
 ```python
 import torch
 from torchvision import transforms
